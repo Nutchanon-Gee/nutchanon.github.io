@@ -5,3 +5,5 @@ title: "nutchanon chaiyaratana"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+![](./image/DSCF2870.JPG){width="75%" fig-align="center"}
